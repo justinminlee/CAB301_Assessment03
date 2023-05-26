@@ -2,7 +2,11 @@
 Identify significant ADTs in a real-world application, design
 and implement the identified ADTs, and then use the ADTs to build a real-world application.
 There are some computational problems arising from the ADT implementations and
-application building, so solve those computational problems.
+application building, and use algorithms to solve those computational problems.
+
+# Algorithms which I used for this project
+Depth-First Traversal
+Insertion 
 
 # Information and software requirements
 To develop a project management system to manage list of tasks in a project.
