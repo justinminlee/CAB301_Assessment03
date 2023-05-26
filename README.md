@@ -6,6 +6,7 @@ application building, and use algorithms to solve those computational problems.
 
 # Algorithms which I used for this project
 Depth-First Traversal
+
 Insertion 
 
 # Information and software requirements
